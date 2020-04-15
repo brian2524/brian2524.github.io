@@ -16,6 +16,8 @@ Programming Projects
 
 ![Project 2 Thumbnail Name](images/SampleApp2.PNG)
 
+
+```bash
 ---
 ### [Project 3 Title | CSCI 325](/project3)
 
@@ -25,7 +27,7 @@ Programming Projects
 ### [Project 4 Title | CSCI 332](/project4)
 
 ![Project 4 Thumbnail Name](images/dummy_thumbnail.jpg)
-
+```
 ---
 
 Ethics Papers
