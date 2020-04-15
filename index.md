@@ -7,27 +7,26 @@ Programming Projects
 *For access to my private project repositories, please [email me](mailto:example@csustudent.net?subject=GitHub%20Access) with the subject line, GitHub Access.
 
 ---
-### [Single Cycle Processor Implementation | CSCI 330](/project1)
+### [Single Cycle Processor Implementation | CSCI 220](/project1)
 
 ![Single Cycle Processor Implementation](images/SSP.PNG)
 
 ---
-### [Ruby on Rails Sample App | CSCI ](/project2)
+### [Ruby on Rails Sample App | CSCI 434](/project2)
 
 ![Project 2 Thumbnail Name](images/SampleApp2.PNG)
 
 
-```bash
----
-### [Project 3 Title | CSCI 325](/project3)
+//---
+//### [Project 3 Title | CSCI 325](/project3)
 
-![Project 3 Thumbnail Name](images/dummy_thumbnail.jpg)
+//![Project 3 Thumbnail Name](images/dummy_thumbnail.jpg)
 
----
-### [Project 4 Title | CSCI 332](/project4)
+//---
+//### [Project 4 Title | CSCI 332](/project4)
 
-![Project 4 Thumbnail Name](images/dummy_thumbnail.jpg)
-```
+//![Project 4 Thumbnail Name](images/dummy_thumbnail.jpg)
+
 ---
 
 Ethics Papers
@@ -48,10 +47,10 @@ Ethics Papers
 Presentations
 -------------
 
-### [Presentation 1 Title](/pdf/presentation1.pdf)
+### [Control Rom Design and Implementation](/pdf/Control_ROM.pdf)
 
-- **Class:** 
-- **Grade:**
+- **Class: Computer Archetecture (CSCI 220)** 
+- **Grade: A**
 
 
 ### [Presentation 2 Title](/pdf/presentation2.pdf)
