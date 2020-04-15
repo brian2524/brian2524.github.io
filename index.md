@@ -31,20 +31,15 @@ Programming Projects
 Ethics Papers
 -------------
 
-### [Paper 1 Title](/pdf/Ethics Paper.pdf)
+### [Software Ownership and Innovation](/pdf/Ethics Paper.pdf)
 
 -   **Class: Applied Networking**  
 -   **Grade: A**
 
-### [Paper 2 Title](/pdf/paper2.pdf)
+### [The Ethics of Memes](/pdf/The Ethics of Memes (1).pdf)
 
--   **Class:** 
--   **Grade:**
-
-### [Paper 3 Title](/pdf/paper3.pdf)
-
--   **Class:** 
--   **Grade:**
+-   **Class:*Data Structures Analysis* 
+-   **Grade: A**
 
 ---
 
