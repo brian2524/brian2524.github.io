@@ -31,10 +31,10 @@ Programming Projects
 Ethics Papers
 -------------
 
-### [Paper 1 Title](/pdf/paper1.pdf)
+### [Paper 1 Title](/pdf/Ethics Paper.pdf)
 
--   **Class:**  
--   **Grade:**
+-   **Class: Applied Networking**  
+-   **Grade: A**
 
 ### [Paper 2 Title](/pdf/paper2.pdf)
 
