@@ -9,7 +9,7 @@ Programming Projects
 ---
 ### [Single Cycle Processor Implementation | CSCI 330](project1)
 
-![Project 1 Thumbnail Name](images/SSP.png)
+![Single Cycle Processor Implementation](images/SSP.PNG)
 
 ---
 ### [Project 2 Title | CSCI 315](project1)
