@@ -13,7 +13,7 @@ Ruby on Rails Sample App
 
 This is a sample website I built from my Human-Computer Interaction class. It features a sigup/loggin system that interacts with a database to store users.
 
-## How to compiles / run the program
+## How to compile / run the program
 
 To visit, follow this link: https://whispering-beach-83643.herokuapp.com/
 
