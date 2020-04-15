@@ -1,11 +1,11 @@
 [Back to Portfolio](./)
 
-Project 1 Title
+Ruby on Rails Sample App
 ===============
 
--   **Class:** 
+-   **Class: Human-Computer Interaction** 
 -   **Grade:**
--   **Language(s):**
+-   **Language(s): Ruby on Rails**
 -   **Source Code Repository:** [features/mastering-markdown](https://guides.github.com/features/mastering-markdown/)  
     (Please [email me](mailto:example@csustudent.net?subject=GitHub%20Access) to request access.)
 
