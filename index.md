@@ -12,9 +12,9 @@ Programming Projects
 ![Single Cycle Processor Implementation](images/SSP.PNG)
 
 ---
-### [Project 2 Title | CSCI 315](project1)
+### [Ruby on Rails Sample App | CSCI 315](project1)
 
-![Project 2 Thumbnail Name](images/dummy_thumbnail.jpg)
+![Project 2 Thumbnail Name](images/SampleApp2.PNG)
 
 ---
 ### [Project 3 Title | CSCI 325](project1)
