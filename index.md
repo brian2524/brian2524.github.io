@@ -39,7 +39,7 @@ Ethics Papers
 
 ### [The Ethics of Memes](/pdf/The Ethics of Memes (1).pdf)
 
--   **Class:*Data Structures Analysis* 
+-   **Class:Data Structures Analysis** 
 -   **Grade: A**
 
 ---
@@ -53,10 +53,10 @@ Presentations
 - **Grade: A**
 
 
-### [Presentation 2 Title](/pdf/presentation2.pdf)
+//### [Presentation 2 Title](/pdf/presentation2.pdf)
 
-- **Class:** 
-- **Grade:**
+//- **Class:** 
+//- **Grade:**
 
 ---
 
