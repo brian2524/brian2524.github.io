@@ -4,7 +4,7 @@ Single Cycle Processor Implementation
 ===============
 
 -   **Class:Computer Archetecture (CSCI 220)** 
--   **Grade:TBA**
+-   **Grade: TBA**
 -   **Language(s):Verilog, x86 Assembly**
 -   **Source Code Repository:** [features/mastering-markdown](https://github.com/brian2524/csci-330-spring-2020)  
     (Please [email me](mailto:BTHinkle@csustudent.net?subject=GitHub%20Access) to request access.)
