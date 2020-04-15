@@ -3,19 +3,19 @@
 Ruby on Rails Sample App
 ===============
 
--   **Class: Human-Computer Interaction** 
--   **Grade:**
+-   **Class: Human-Computer Interaction (CSCI 334)** 
+-   **Grade:TBA**
 -   **Language(s): Ruby on Rails**
--   **Source Code Repository:** [features/mastering-markdown](https://guides.github.com/features/mastering-markdown/)  
-    (Please [email me](mailto:example@csustudent.net?subject=GitHub%20Access) to request access.)
+-   **Source Code Repository:** [features/mastering-markdown](https://github.com/brian2524/sample_app)  
+    (Please [email me](mailto:BTHinkle@csustudent.net?subject=GitHub%20Access) to request access.)
 
 ## Project description
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+This is a sample website I built from my Human-Computer Interaction class. It features a sigup/loggin system that interacts with a database to store users.
 
 ## How to compiles / run the program
 
-How to compile (if applicable) and run the project.
+To visit, follow this link: https://whispering-beach-83643.herokuapp.com/
 
 ```bash
 cd ./project
