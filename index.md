@@ -53,10 +53,7 @@ Presentations
 - **Grade: A**
 
 
-//### [Presentation 2 Title](/pdf/presentation2.pdf)
 
-//- **Class:** 
-//- **Grade:**
 
 ---
 
