@@ -34,7 +34,7 @@ Ethics Papers
 -   **Class: Algorithms** 
 -   **Grade: TBA**
 
-### [SoftwareOwnership](/pdf/SoftwareOwnership.pdf)
+### [SoftwareLicensing](/pdf/SoftwareLicensing.pdf)
 
 -   **Class: Operating Systems** 
 -   **Grade: TBA**
