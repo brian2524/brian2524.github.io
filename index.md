@@ -29,11 +29,15 @@ Ethics Papers
 -   **Class: Applied Networking**  
 -   **Grade: A**
 
-### [The Ethics of Memes](/pdf/The Ethics of Memes (1).pdf)
+### [Importance of Privacy Online](/pdf/Privacy.pdf)
 
--   **Class:Data Structures Analysis** 
--   **Grade: A**
+-   **Class: Algorithms** 
+-   **Grade: TBA**
 
+### [SoftwareOwnership](/pdf/SoftwareOwnership.pdf)
+
+-   **Class: Operating Systems** 
+-   **Grade: TBA**
 ---
 
 Presentations
