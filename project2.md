@@ -4,7 +4,7 @@ Ruby on Rails Sample App
 ===============
 
 -   **Class: Human-Computer Interaction (CSCI 334)** 
--   **Grade: TBA**
+-   **Grade: A**
 -   **Language(s): Ruby on Rails**
 -   **Source Code Repository:** [features/mastering-markdown](https://github.com/brian2524/sample_app)  
     (Please [email me](mailto:BTHinkle@csustudent.net?subject=GitHub%20Access) to request access.)
