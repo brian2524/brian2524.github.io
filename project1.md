@@ -27,6 +27,6 @@ Fig 1. Single Cycle Processor Diagram
 
 ![screenshot](images/SSP1.png)
 ![screenshot](images/SSP2.png)
-Fig 2. Output from load word run
+Fig 2. Output from a load word instruction
 
 [Back to Portfolio](./)
