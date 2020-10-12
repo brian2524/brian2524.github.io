@@ -22,7 +22,7 @@ iverilog *.v tests/test-SINGLECYCLEPROCESSORLW.v
 make run
 ```
 
-![screenshot](images/SSP.png)
+![screenshot](images/SSP.PNG)
 Fig 1. Single Cycle Processor Diagram
 
 ![screenshot](images/SSPdiagram.png)
