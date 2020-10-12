@@ -13,7 +13,7 @@ Single Cycle Processor Implementation
 
 Written verilog modules that communicate to eachother as a whole. Reads in opcode to perform various tasks (ie. halt and loadWord).
 
-## How to compiles / run the program
+## How to compile / run the program
 ```bash
 To compile, assemble, and run the simulation:
 cd verilog/Single\ Cycle\ Processor/asm
@@ -25,7 +25,8 @@ make run
 ![screenshot](images/SSP.PNG)
 Fig 1. Single Cycle Processor Diagram
 
-![screenshot](images/SSPdiagram.png)
-Fig 2. Verilog Representation of Diragram
+![screenshot](images/SSP1.PNG)
+![screenshot](images/SSP2.PNG)
+Fig 2. Output from load word run
 
 [Back to Portfolio](./)
