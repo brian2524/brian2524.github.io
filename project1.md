@@ -21,8 +21,5 @@ cd verilog/Single\ Cycle\ Processor/asm
 iverilog *.v tests/test-SINGLECYCLEPROCESSORLW.v
 make run
 ```
-## 3. Additional Considerations
-
-Project is not completely finished yet. Still need to implement rest of opcodes
 
 [Back to Portfolio](./)
