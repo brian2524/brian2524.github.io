@@ -22,4 +22,10 @@ iverilog *.v tests/test-SINGLECYCLEPROCESSORLW.v
 make run
 ```
 
+![screenshot](images/SSPdiagram.png)
+Fig 1. Single Cycle Processor Diagram
+
+![screenshot](images/SSPdiagram.png)
+Fig 2. Verilog Representation of Diragram
+
 [Back to Portfolio](./)
