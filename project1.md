@@ -25,8 +25,8 @@ make run
 ![screenshot](images/SSP.PNG)
 Fig 1. Single Cycle Processor Diagram
 
-![screenshot](images/SSP1.PNG)
-![screenshot](images/SSP2.PNG)
+![screenshot](images/SSP1.png)
+![screenshot](images/SSP2.png)
 Fig 2. Output from load word run
 
 [Back to Portfolio](./)
