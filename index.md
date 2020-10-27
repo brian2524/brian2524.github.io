@@ -7,7 +7,7 @@ Programming Projects
 *For access to my private project repositories, please [email me](mailto:example@csustudent.net?subject=GitHub%20Access) with the subject line, GitHub Access.
 
 ---
-### [Single Cycle Processor Implementation | CSCI 220](/project1)
+### [Single Cycle Processor Implementation | CSCI 330](/project1)
 
 ![Single Cycle Processor Implementation](images/SSP.PNG)
 
@@ -49,7 +49,7 @@ Presentations
 - **Class: Computer Archetecture (CSCI 220)** 
 - **Grade: A**
 
-### [Microsoft C++ AMP](/pdf/HPC Presentation.pdf)
+### [Microsoft C++ AMP](/pdf/HPC_Presentation.pdf)
 
 - **Class: Computer Archetecture (CSCI 220)** 
 - **Grade: A**
