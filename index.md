@@ -4,7 +4,7 @@ Portfolio
 Programming Projects
 --------------------
 
-*For access to my private project repositories, please [email me](mailto:bthinkle@csustudent.net?subject=GitHub%20Access) with the subject line, GitHub Access.
+*For access to my private project repositories, please <bthinkle@csustudent.net> with the subject line, GitHub Access.
 
 ---
 ### [Single Cycle Processor Implementation | CSCI 330](/project1)
