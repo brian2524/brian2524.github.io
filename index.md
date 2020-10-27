@@ -49,7 +49,7 @@ Presentations
 - **Class: Computer Archetecture (CSCI 220)** 
 - **Grade: A**
 
-### [Microsoft C++ AMP](https://youtu.be/ibtVGJqPFNM)
+### [Microsoft C++ AMP](/pdf/HPC Presentation.pdf)
 
 - **Class: Computer Archetecture (CSCI 220)** 
 - **Grade: A**
