@@ -21,6 +21,9 @@ Right click on the package icon and click "clean and build"
 Click the green "play" arrow
 ```
 
+![screenshot](images/Main Menu.png)
+Fig 1. Main Menu screen
+
 ![screenshot](images/Add New Donor.png)
 Fig 1. Menu screen for registering a new Donor
 
