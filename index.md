@@ -19,7 +19,12 @@ Programming Projects
 ---
 ### [Donation Tracker | CSCI 325](/project3)
 
-![Project 2 Thumbnail Name](images/Add New Donor.png)
+![Donation Tracker](images/Add New Donor.png)
+
+---
+### [Processes | CSCI 325](/project4)
+
+![Processes](images/lab03.PNG)
 
 
 
