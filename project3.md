@@ -3,9 +3,9 @@
 Donation Tracker
 ===============
 
--   **Class:Object Oriented Programming (CSCI 325)** 
+-   **Class: Object Oriented Programming (CSCI 325)** 
 -   **Grade: B**
--   **Language(s):Java**
+-   **Language(s): Java**
 -   **Source Code Repository:** [CSU-CSCI325_FALL2018](https://github.com/brian2524/CSU-CSCI325_FALL2018)  
     (Please [email me](mailto:BTHinkle@csustudent.net?subject=GitHub%20Access) to request access.)
 
@@ -18,6 +18,7 @@ A Java application written in Netbeans to store and keep track of Church donors 
 In Netbeans click "Open Project"
 Navigate to "CSU-CSCI325_FALL2018/DonationProgram/" and open the project folder
 Right click on the package icon and click "clean and build"
+Click the green "play" arrow
 ```
 
 ![screenshot](images/Add New Donor.png)
