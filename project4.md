@@ -11,7 +11,8 @@ Processes Lab
 
 ## Project description
 
-Lab to demonstrate the use of fork() and child processes.
+This lab demonstrates how you can communicate back and fourth between child and parent processes using shared memory.
+This program takes in a value, N which represents the number of child processes to create. Each process generates a random number (0-9999). This program uses the shared memory to signal the parent process that the children are finished and tell it to determine the highest random number. The parent can then signal back, indicating which child process generated the largest value.
 
 ## How to compile / run the program
 ```
