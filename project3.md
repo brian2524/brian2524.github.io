@@ -1,44 +1,28 @@
 [Back to Portfolio](./)
 
-Project 1 Title
+Donation Tracker
 ===============
 
--   **Class:** 
--   **Grade:**
--   **Language(s):**
--   **Source Code Repository:** [features/mastering-markdown](https://guides.github.com/features/mastering-markdown/)  
+-   **Class:Object Oriented Programming (CSCI 325)** 
+-   **Grade: B**
+-   **Language(s):Java**
+-   **Source Code Repository:** [CSU-CSCI325_FALL2018](https://github.com/brian2524/CSU-CSCI325_FALL2018)  
     (Please [email me](mailto:BTHinkle@csustudent.net?subject=GitHub%20Access) to request access.)
 
 ## Project description
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+A Java application written in Netbeans to store and keep track of Church donors and their donations.
 
-## How to compiles / run the program
-
-How to compile (if applicable) and run the project.
-
-```bash
-cd ./project
-python setup.py
+## How to compile / run the program
+```In Netbeans click \"Open Project\"
+Navigate to \"CSU-CSCI325_FALL2018/DonationProgram/\" and open the project folder
+Rightclick on the package icon and click \"clean and build\"
 ```
 
-## UI Design
+![screenshot](images/Add New Donor.png)
+Fig 1. Menu screen for registering a new Donor
 
-Lorem ipsum dolor sit amet (see Fig 1), consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat (see Fig 2). Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum (see Fig 3).
-
-![screenshot](images/dummy_thumbnail.jpg)
-Fig 1. The launch screen
-
-![screenshot](images/dummy_thumbnail.jpg)
-Fig 2. Example output after input is processed.
-
-![screenshot](images/dummy_thumbnail.jpg)
-Fig 3. Feedback when an error occurs.
-
-## 3. Additional Considerations
-
-Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. 
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+![screenshot](images/Enter Contributions.png)
+Fig 2. Menu screen for entering new contributions
 
 [Back to Portfolio](./)
