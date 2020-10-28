@@ -21,7 +21,7 @@ To visit, follow this link: https://whispering-beach-83643.herokuapp.com/
 Fig 1. The Home screen
 
 ![screenshot](images/SampleApp2.PNG)
-Fig 2. Loggin Page
+Fig 2. Sign up Page
 
 ![screenshot](images/SampleApp3.PNG)
 Fig 3. User Profile
