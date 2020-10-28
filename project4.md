@@ -1,6 +1,6 @@
 [Back to Portfolio](./)
 
-Processes Lab
+Processes and Shared Memory
 ===============
 
 -   **Class: Operating Systems (CSCI 431)** 
