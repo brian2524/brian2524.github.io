@@ -25,9 +25,9 @@ Click the green "play" arrow
 Fig 1. Main Menu screen
 
 ![screenshot](images/Add New Donor.png)
-Fig 1. Menu screen for registering a new Donor
+Fig 2. Menu screen for registering a new Donor
 
 ![screenshot](images/Enter Contributions.png)
-Fig 2. Menu screen for entering new contributions for the week
+Fig 3. Menu screen for entering new contributions for the week
 
 [Back to Portfolio](./)
