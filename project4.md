@@ -6,7 +6,7 @@ Processes Lab
 -   **Class: Operating Systems (CSCI 431)** 
 -   **Grade: TBA**
 -   **Language(s): C**
--   **Source Code Repository:** [csci-431-fall-2020](https://github.com/brian2524/CSU-CSCI325_FALL2018)  
+-   **Source Code Repository:** [csci-431-fall-2020](https://github.com/brian2524/csci-431-fall-2020)  
     (Please [email me](mailto:BTHinkle@csustudent.net?subject=GitHub%20Access) to request access.)
 
 ## Project description
