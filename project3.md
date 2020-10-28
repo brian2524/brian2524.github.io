@@ -4,7 +4,7 @@ Donation Tracker
 ===============
 
 -   **Class: Object Oriented Programming (CSCI 325)** 
--   **Grade: B**
+-   **Grade: A**
 -   **Language(s): Java**
 -   **Source Code Repository:** [CSU-CSCI325_FALL2018](https://github.com/brian2524/CSU-CSCI325_FALL2018)  
     (Please [email me](mailto:BTHinkle@csustudent.net?subject=GitHub%20Access) to request access.)
