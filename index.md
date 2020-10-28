@@ -16,6 +16,11 @@ Programming Projects
 
 ![Project 2 Thumbnail Name](images/SampleApp2.PNG)
 
+---
+### [Donation Tracker | CSCI 325](/project3)
+
+![Project 2 Thumbnail Name](images/Add New Donor.png)
+
 
 
 
