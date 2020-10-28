@@ -14,9 +14,10 @@ Donation Tracker
 A Java application written in Netbeans to store and keep track of Church donors and their donations.
 
 ## How to compile / run the program
-```In Netbeans click \"Open Project\"
+```
+In Netbeans click \"Open Project\"
 Navigate to \"CSU-CSCI325_FALL2018/DonationProgram/\" and open the project folder
-Rightclick on the package icon and click \"clean and build\"
+Right click on the package icon and click \"clean and build\"
 ```
 
 ![screenshot](images/Add New Donor.png)
