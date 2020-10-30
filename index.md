@@ -56,12 +56,12 @@ Presentations
 
 ### [Control Rom Design and Implementation](/pdf/Control_ROM.pdf)
 
-- **Class: Computer Archetecture (CSCI 220)** 
+- **Class: Computer Archetecture (CSCI 330)** 
 - **Grade: A**
 
 ### [Microsoft C++ AMP](/pdf/HPC_Presentation.pdf)
 
-- **Class: Computer Archetecture (CSCI 220)** 
+- **Class: Computer Archetecture (CSCI 330)** 
 - **Grade: A**
 
 
