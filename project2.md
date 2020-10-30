@@ -43,7 +43,7 @@ If the test suite passes, you'll be ready to run the app in a local server:
 $ rails server
 ```
 
-To visit, [follow this link](https://whispering-beach-83643.herokuapp.com/)
+To visit, [*follow this link*](https://whispering-beach-83643.herokuapp.com/)
 
 ![screenshot](images/SampleApp1.PNG)
 Fig 1. The Home screen
